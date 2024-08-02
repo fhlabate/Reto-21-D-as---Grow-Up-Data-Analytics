@@ -3,6 +3,6 @@ El objetivo es aprender novedades de visualización de datos en Power BI dedican
 
 Resultado final 👇
 
-![image](![image](https://github.com/user-attachments/assets/cf2bef73-e372-4f3b-a4f3-20d029471f22)
+![image](https://github.com/user-attachments/assets/cf2bef73-e372-4f3b-a4f3-20d029471f22)
 
 📹[Fuente](https://www.youtube.com/watch?v=uW-_q0KzIW0)
